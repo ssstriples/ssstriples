@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I`m Sunghun lee!
+Let`s start coding!
 
 
 <!--
